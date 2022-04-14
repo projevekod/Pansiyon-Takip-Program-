@@ -1,0 +1,28 @@
+
+OTEL254 programı diyerek başladığım serüvende programı bir çok gez geliştirerek eksiklerini giderdim ve artık tam kullanılabilir bir program oldu. Pansiyonların yoğun ilgisi üzerine pansiyon modu geliştirdim.
+
+Otel versiyonu için burayı tıklayın :https://www.projevekod.com/2018/05/c-sharp-otel-rezervasyon-otomasyonu.html
+
+Pansiyon mod'da neler var?
+
+Kara liste ile sorunlu müşterileri artık müşteri eklerken fark edebileceksiniz.
+
+Kara listeye müşteri eklemek için müşteriler tablosunu ziyaret ediniz.
+
+Raporlar kısmı tam kapasite çalıştırıldı. Artık kasa balansı ile hasılat raporu ve oda kontrol listesi ile odalara göre giriş - çıkış raporlaması yapabileceksiniz.
+
+Kasa işlemleri ile gider ekleyebilirsiniz. Gün sonunda toplu bir şekilde kasa balansında görünmektedir.
+
+Odalar için ufak renk düzenlemeleri yapıldı.
+
+Mini müşteri görüntülenme ekranı düzenlendi orada sadece açıklama olacaktır.
+
+Müşteri eklerken artık giriş saati ve çıkış saati ekleyebilirsiniz. Ayrıca müşteri eklerken
+
+Eğer kara listede müşteri ise açıklama kısmında görüntülenecektir.
+
+Oda fiyatı tek seferlik oldu artık herhangi bir tarih hesabı olmayacaktır.
+
+Otel versiyonu için kullanım talimatı : https://www.projevekod.com/p/otel254-ucretsiz-otel-takip-program.html
+
+Pansiyon modu ücretsiz indir :OTEL254 V1.5 Pansiyon Mod
